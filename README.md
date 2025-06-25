@@ -220,13 +220,4 @@ GOOS=windows GOARCH=amd64 go build -trimpath --ldflags="-s -w" -o moeCounter.exe
 ![预览图片](public/assets/img/Preview.jpg)
 
 ## 感谢
-本项目部分资源基于 [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) 开发
-
-## Star History
-<a href="https://star-history.com/?repos=skyle1995/Moe-Counter-Go&type=Date#skyle1995/Moe-Counter-Go&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=skyle1995/Moe-Counter-Go&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=skyle1995/Moe-Counter-Go&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=skyle1995/Moe-Counter-Go&type=Date" />
- </picture>
-</a>
+本项目部分资源基于 [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) 开发 [skyle1995/Moe-Counter-Go](https://github.com/skyle1995/Moe-Counter-Go)基础上二次修改
